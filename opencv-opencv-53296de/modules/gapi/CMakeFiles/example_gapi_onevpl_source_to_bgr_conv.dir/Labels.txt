@@ -1,0 +1,9 @@
+# Target labels
+ Main
+ opencv_gapi
+ Sample
+# Source files and their labels
+/Users/apple/AI-CV-DATA-23-24/opencv-opencv-53296de/modules/gapi/samples/onevpl_source_to_bgr_conv.cpp
+ Main
+ opencv_gapi
+ Sample
