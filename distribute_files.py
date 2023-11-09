@@ -24,6 +24,8 @@ num_subdirs = len(subteam_names)
 # Create subdirectories for each subteam
 for subteam_name in subteam_names:
     subdir = os.path.join(destination_dir, subteam_name)
+    if os.path.exists(subdir):
+        shutil.rmtree(subdir)
     os.makedirs(subdir, exist_ok=True)
 
 # Distribute the files to subdirectories
