@@ -1,19 +1,20 @@
-/Users/corannejuang/Desktop/claws/AI-CV-DATA-23-24/divided_positives/coco/hannah_386853996_1962825500771223_4406022994276332162_n.jpg 1 302 702 339 349
-/Users/corannejuang/Desktop/claws/AI-CV-DATA-23-24/divided_positives/coco/hannah_386856547_3166869950283701_6300479941265186657_n.jpg 1 126 510 344 339
-/Users/corannejuang/Desktop/claws/AI-CV-DATA-23-24/divided_positives/coco/hannah_400582828_691384342935025_7869556611523562776_n.jpg 1 272 498 270 253
-/Users/corannejuang/Desktop/claws/AI-CV-DATA-23-24/divided_positives/coco/joel_20231105_175135.jpg 1 299 579 216 194
-/Users/corannejuang/Desktop/claws/AI-CV-DATA-23-24/divided_positives/coco/joel_20231105_175203.jpg 1 255 556 199 196
-/Users/corannejuang/Desktop/claws/AI-CV-DATA-23-24/divided_positives/coco/joel_20231105_180216.jpg 1 155 442 358 363
-/Users/corannejuang/Desktop/claws/AI-CV-DATA-23-24/divided_positives/coco/lisa_IMG_5040.JPG 1 786 467 212 206
-/Users/corannejuang/Desktop/claws/AI-CV-DATA-23-24/divided_positives/coco/lisa_IMG_5056.JPG 1 440 651 229 208
-/Users/corannejuang/Desktop/claws/AI-CV-DATA-23-24/divided_positives/coco/lisa_IMG_5059.JPG 1 527 791 163 129
-/Users/corannejuang/Desktop/claws/AI-CV-DATA-23-24/divided_positives/coco/lisa_lisa_IMG_4787.JPG 1 449 624 287 264
-/Users/corannejuang/Desktop/claws/AI-CV-DATA-23-24/divided_positives/coco/lisa_lisa_IMG_4789.JPG 1 525 797 242 219
-/Users/corannejuang/Desktop/claws/AI-CV-DATA-23-24/divided_positives/coco/lisa_lisa_IMG_4793.JPG 1 408 527 386 356
-/Users/corannejuang/Desktop/claws/AI-CV-DATA-23-24/divided_positives/coco/nathan_nathan_IMG_9948.jpg 1 656 359 325 306
-/Users/corannejuang/Desktop/claws/AI-CV-DATA-23-24/divided_positives/coco/nathan_nathan_IMG_9950.jpg 1 767 517 237 207
-/Users/corannejuang/Desktop/claws/AI-CV-DATA-23-24/divided_positives/coco/rishabh_IMG_5716.JPG 1 88 384 959 892
-/Users/corannejuang/Desktop/claws/AI-CV-DATA-23-24/divided_positives/coco/rishabh_IMG_5771.JPG 1 535 377 189 161
-/Users/corannejuang/Desktop/claws/AI-CV-DATA-23-24/divided_positives/coco/rishabh_IMG_5773.JPG 1 594 469 240 206
-/Users/corannejuang/Desktop/claws/AI-CV-DATA-23-24/divided_positives/coco/rishabh_IMG_5774.JPG 2 227 543 116 81 1148 840 157 129
-/Users/corannejuang/Desktop/claws/AI-CV-DATA-23-24/divided_positives/coco/rishabh_IMG_5776.JPG 1 516 323 110 86
+divided_positives/coco/hannah_386853996_1962825500771223_4406022994276332162_n.jpg 1 302 702 339 349
+divided_positives/coco/hannah_386856547_3166869950283701_6300479941265186657_n.jpg 1 126 510 344 339
+divided_positives/coco/hannah_400582828_691384342935025_7869556611523562776_n.jpg 1 272 498 270 253
+divided_positives/coco/joel_20231105_175135.jpg 1 299 579 216 194
+divided_positives/coco/joel_20231105_175203.jpg 1 255 556 199 196
+divided_positives/coco/joel_20231105_180216.jpg 1 155 442 358 363
+divided_positives/coco/lisa_IMG_5040.JPG 1 786 467 212 206
+divided_positives/coco/lisa_IMG_5056.JPG 1 440 651 229 208
+divided_positives/coco/lisa_IMG_5059.JPG 1 527 791 163 129
+divided_positives/coco/lisa_lisa_IMG_4787.JPG 1 449 624 287 264
+divided_positives/coco/lisa_lisa_IMG_4789.JPG 1 525 797 242 219
+divided_positives/coco/lisa_lisa_IMG_4793.JPG 1 408 527 386 356
+divided_positives/coco/nathan_nathan_IMG_9948.jpg 1 656 359 325 306
+divided_positives/coco/nathan_nathan_IMG_9950.jpg 1 767 517 237 207
+divided_positives/coco/rishabh_IMG_5716.JPG 1 88 384 959 892
+divided_positives/coco/rishabh_IMG_5771.JPG 1 535 377 189 161
+divided_positives/coco/rishabh_IMG_5773.JPG 1 594 469 240 206
+divided_positives/coco/rishabh_IMG_5774.JPG 2 227 543 116 81 1148 840 157 129
+divided_positives/coco/rishabh_IMG_5776.JPG 1 516 323 110 86
+
